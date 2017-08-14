@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 99b81dae1df4999448c577b6e7df368f
+timeCreated: 1490557433
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A-Mun Celestial
+  fontNames:
+  - A-Mun Celestial
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
