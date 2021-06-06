@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MechaMan", "MechaMan.csproj", "{6CD26ECC-F6D2-9BB6-BA14-4822B20F04FB}"
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7D4B9A22-D131-0F7A-3A1C-31BA62228854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6CD26ECC-F6D2-9BB6-BA14-4822B20F04FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6CD26ECC-F6D2-9BB6-BA14-4822B20F04FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6CD26ECC-F6D2-9BB6-BA14-4822B20F04FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6CD26ECC-F6D2-9BB6-BA14-4822B20F04FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4B9A22-D131-0F7A-3A1C-31BA62228854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4B9A22-D131-0F7A-3A1C-31BA62228854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4B9A22-D131-0F7A-3A1C-31BA62228854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4B9A22-D131-0F7A-3A1C-31BA62228854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
